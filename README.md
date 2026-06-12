@@ -82,7 +82,7 @@ Clone o repositório e acesse o diretório do laboratório:
 
 ```bash
 git clone https://github.com/YusukekUramesh/Projeto
-cd lab_topologia
+cd Projeto
 ```
 
 ## 🐝 Passo 2 — Deploy da Topologia
