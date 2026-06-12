@@ -108,7 +108,7 @@ sudo docker ps --filter "label=containerlab=YusukekUramesh-lab"
 
 
 ```bash
-docker exec clab-YusukekUramesh-lab-node-a ping -c 3 10.0.0.2
+sudo docker exec clab-YusukekUramesh-lab-node-a ping -c 3 10.0.0.2
 ```
 
 **Resultado esperado:** `0% packet loss`  
